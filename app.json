@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Scramble",
+   "icon": "./images/Org_Scramble.PNG",
+   "version": "1.0.1",
+   "slug": "calc",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.redvelvet.Scramble"
+   },
+   "android": {
+     "package": "com.redvelvet.Scramble"
+   }
+  }
+}
