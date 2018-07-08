@@ -5,11 +5,13 @@
    "version": "1.0.1",
    "slug": "calc",
    "sdkVersion": "27.0.0",
+   "privacy" : "public",
    "ios": {
      "bundleIdentifier": "com.redvelvet.Scramble"
    },
    "android": {
-     "package": "com.redvelvet.Scramble"
+     "package": "com.redvelvet.Scramble",
+     "permissions": []
    }
   }
 }
