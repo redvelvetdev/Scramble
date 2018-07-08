@@ -2,16 +2,19 @@
   "expo": {
    "name": "Scramble",
    "icon": "./images/Org_Scramble.PNG",
-   "version": "1.0.1",
+   "version": "1.1.1",
    "slug": "calc",
    "sdkVersion": "27.0.0",
    "privacy" : "public",
+   "orientation" : "portrait",
    "ios": {
      "bundleIdentifier": "com.redvelvet.Scramble"
    },
    "android": {
      "package": "com.redvelvet.Scramble",
-     "permissions": []
+     "permissions": [
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+     ]
    }
   }
 }
